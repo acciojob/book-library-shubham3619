@@ -20,9 +20,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.book span {
-	font-weight:bold;
-	
+
 }
 .book p {
 	color: #777777;
@@ -33,6 +31,6 @@ body {
 	background-color:#2ecc71;
 	padding: 10px;
 	border: none;
-	border-radius:5px
-	
+	border-radius:5px;
+	color:white;
 }
