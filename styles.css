@@ -32,11 +32,11 @@ body {
 	padding: 10px;
 	border: none;
 	border-radius:5px;
+	width:100%;
+	color:rgb(255, 255, 255);
+	text-align: center;
 	
 }
 .btn button {
-	width:100%;
-	background-color:#2ecc71;
-	border: none;
-	color:rgb(255, 255, 255);
+	
 }
